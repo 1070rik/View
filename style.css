@@ -36,3 +36,17 @@ body{
   font-size: 60px;
   color: #fff;
 }
+
+#banner banner-subtext{
+  width:80%;
+  display:block;
+  position:absolute;
+  top: 45%;
+  left:0;
+  right:0;
+  margin:auto;
+  font-weight:100;
+  text-align:center;
+  font-size: 30px;
+  color: #fff;
+}
