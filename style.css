@@ -17,3 +17,7 @@ body{
   right:0;
   margin:auto;
 }
+
+#banner .banner-span{
+  text-align: center;
+}
