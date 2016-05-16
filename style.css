@@ -19,5 +19,6 @@ body{
 }
 
 #banner .banner-span{
+  width:100%;
   text-align: center;
 }
