@@ -37,7 +37,7 @@ body{
   color: #fff;
 }
 
-#banner banner-subtext{
+#banner .banner-subtext{
   width:80%;
   display:block;
   position:absolute;
