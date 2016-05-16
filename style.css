@@ -13,4 +13,6 @@ body{
   height: auto;
   display: block;
   margin: auto;
+  position: absolute;
+  top: 10%;
 }
