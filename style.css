@@ -11,8 +11,6 @@ body{
 #banner .logo{
   width: 100px;
   height: auto;
-  position: absolute;
-  top: 25%;
   display: block;
   margin: auto;
 }
